@@ -75,7 +75,7 @@ class _MyAppState extends State<MyApp> {
     }
 
     setState(() {
-      inp = double.parse(out).toString();
+      inp = double.parse(out).toStringAsFixed(2);
     });
   }
 

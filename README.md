@@ -1,23 +1,15 @@
-# Flutter Quiz App for Noobs
+# Flutter Calculator App for Noobs
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)&nbsp;&nbsp;&nbsp;&nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)&nbsp;&nbsp;&nbsp;&nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)&nbsp;&nbsp;&nbsp;&nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)&nbsp;&nbsp;&nbsp;&nbsp;
 
-In this app we are going to have the features or modules mentioned below:<br>
-
-* Three multiple-choice questions ( more questions can be added ).
-* Four selectable options for each question in the form of buttons.
-* The score will be calculated based on the option selected for each question (Internally).
-* The final score will be shown at the end of the quiz in addition to the reset button.
-* There are two screens in the app home ( were questions will be shown) and result screen ( where score will be shown).
-* The whole app will be separated into five different modules namely main.dart, question.dart, answer.dart,quiz.dart and reslut.dart.
 
 Making this app will give you a good revision of flutter and dart basics. As we are covering a lot of concepts such as:
 
-* Showing Widgets on the screen.
+* Showing texts on the screen.
 * Recycling Widgets.
-* Changing Screens.
+* Taking User Input and Performing calculations.
 * Internal Logic
 * and else.
 
@@ -39,8 +31,6 @@ Technologies,Languages and Tools Involved:-<br><br>
 2. Flutter and Dart Packages must be installed
 
 ## Working Of App(GIF)
-<img src="https://i.imgur.com/F3S1SW0.gif" width="400" height="700" />
+<img src="https://i.imgur.com/cENkCwi.gif" width="400" height="700" />
 
-## Screenshots Of Different Phases
-<img src="https://i.imgur.com/AObhRNq.png" width="400" height="700" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://imgur.com/4Ap0EO3.png" width="400" height="700" />
 
